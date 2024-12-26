@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# TypeScript build output
+dist/
+
+# Git and version control
+.git
+.gitignore
+
+# Environment files
+.env
+
+# Docker and build files
+Dockerfile
+docker-compose.yml
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+
+# Lint and formatting
+eslintcache
+.prettiercache
+
+# Test coverage and reports
+coverage/
+
+# Miscellaneous
+*.tgz
