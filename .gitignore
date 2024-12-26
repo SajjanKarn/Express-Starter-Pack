@@ -19,12 +19,12 @@ dist/
 Thumbs.db
 
 # IDE and editor settings
-.vscode/
+# .vscode/
 .idea/
 *.swp
 
 # Husky
-.husky/
+# .husky/
 
 # Lint and formatting
 eslintcache
